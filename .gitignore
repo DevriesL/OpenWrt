@@ -1,7 +1,6 @@
 *.o
 .DS_Store
 .*.swp
-/env
 /dl
 /.config
 /.config.old
