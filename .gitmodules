@@ -1,0 +1,9 @@
+[submodule "package/devries/luci-theme-argon"]
+	path = package/devries/luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "package/devries/OpenClash"]
+	path = package/devries/OpenClash
+	url = https://github.com/vernesong/OpenClash.git
+[submodule "package/network/services/fullconenat"]
+	path = package/network/services/fullconenat
+	url = https://github.com/llccd/openwrt-fullconenat.git
