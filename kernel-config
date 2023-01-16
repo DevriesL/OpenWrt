@@ -17,5 +17,6 @@ CONFIG_CMDLINE="idle=poll nmi_watchdog=0 acpi_irq_nobalance skew_tick=1 nosoftlo
 # CONFIG_CMDLINE_OVERRIDE is not set
 
 CONFIG_TCP_CONG_BBR=y
+# CONFIG_DEFAULT_CUBIC is not set
 CONFIG_DEFAULT_BBR=y
 CONFIG_DEFAULT_TCP_CONG="bbr"
